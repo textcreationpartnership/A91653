@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reply of the hamlet of Wapping to the answer of the rector to their Case and petition and likewise to The case of the church-wardens of White-chappel.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91653</idno>
+            <idno type="STC">Wing R1048A</idno>
+            <idno type="STC">ESTC R42400</idno>
+            <idno type="EEBO-CITATION">36273493</idno>
+            <idno type="OCLC">ocm 36273493</idno>
+            <idno type="VID">150225</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150225)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2236:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reply of the hamlet of Wapping to the answer of the rector to their Case and petition and likewise to The case of the church-wardens of White-chappel.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: creased and torn, with loss of print.</note>
+                  <note>The rector's answer was entitled: The rector of Whitechappel's answer to the case and petition of the hamlet of Wapping.</note>
+                  <note>Wapping wished to become a distinct parish.</note>
+                  <note>Reproduction of original in the Guildhall (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rector of Whitechappel's answer to the case and petition of the hamlet of Wapping.</term>
+               <term>Parishes (Local government) --  England --  London.</term>
+               <term>London (England) --  History --  17th century.</term>
+               <term>Wapping (London, England) --  History --  17th century.</term>
+               <term>Whitechapel (London, England) --  History --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:150225:1" rendition="simple:additions"/>
+            <head>THE
+REPLY
+Of the Hamlet of Wapping, to the Anſwer of the Reactor to their
+CASE and Petition; and likewiſe to the CASE
+Of the Church-Wardens of White-Chappel.</head>
+            <p>THE Rector hath been pleaſed in Anſwer to our <hi>Caſe,</hi> to contradict many things which we have aſſerted; wherefore we
+think our ſelves bound to vindicate our <hi>Truth:</hi> and do therefore crave leave to reply to his Anſwer.</p>
+            <p>Firſt,<note place="margin">The Chap<g ref="char:EOLhyphen"/>pel has no ſuch ſetled Fund to maintain it in repair, as is in<g ref="char:EOLhyphen"/>timated in the Rector's An<g ref="char:EOLhyphen"/>ſwer.</note> Whereas he alledges, <hi>That our Bill is not to enlarge our Chappel, That we have a Fund from the Burials to keep
+it in repair,</hi> &amp;c. The contrary of which is manifeſt, ſince he himſelf claims and receives Duties for all Funerals both
+in Chappel-yard and Chappel, and <hi>All</hi> that's paid for every Corps buried in the Chancel, tho he contribute <hi>nothing</hi>
+to its repair; and tho every Funeral pay to the Chappel, yet this is ſo far from producing a <hi>Stock</hi> or <hi>Fund,</hi> that the Chappel (not<g ref="char:EOLhyphen"/>withſtanding
+Voluntary Contributions) is at preſent much in debt, and we cannot legally raiſe by any Taxe <hi>One Penny</hi> towards ei<g ref="char:EOLhyphen"/>ther
+the Payment of its Debts, or keeping it in repair; and therefore unleſs made Parochial, it muſt inevitably fall, and ſo render
+the Inhabitants deſtitute of any Place of Publick Worſhip; the Church of <hi>White Chappel</hi> being incapable (as is not deny'd by the
+Rector in his Caſe) to contain <hi>One tenth part</hi> of the Pariſhioners.</p>
+            <p>Secondly,<note place="margin">The Mini<g ref="char:EOLhyphen"/>ſter has no ſuch Endow<g ref="char:EOLhyphen"/>ment, as is ſug<g ref="char:EOLhyphen"/>geſted.</note> He affirms, <hi>That our Miniſter hath a Competent Maintenance by Endowment, and the Gift of ſeveral houſes, in all worth
+Six or Seven ſcore pounds</hi> per Annum, &amp;c. Which is ſo far from being his condition, that all the Endowment he hath, is but Eight
+pounds <hi>per Annum,</hi> being the Rent of <hi>One Houſe;</hi> which likewiſe he holds by the <hi>Courteſie</hi> of the Truſtees: And his Dependance be<g ref="char:EOLhyphen"/>ſides
+is on the <hi>Voluntary, Contributions</hi> of the People; which being moſt uncertain, is yet <hi>at beſt,</hi> not above Seventy or Seventy five
+pounds <hi>per Annum;</hi> for which he preaches <hi>twice every Lords Day,</hi> reads prayers <hi>every day</hi> in the Week, and performs all other Mini<g ref="char:EOLhyphen"/>ſterial
+Offices, as Viſiting the Sick, <hi>&amp;c.</hi> So that its far unlike a <hi>Lecture,</hi> and therefore not ſo deſirable when vacant, as repre<g ref="char:EOLhyphen"/>ſented
+by the Rector.</p>
+            <p>
+               <hi>Thirdly,</hi>
+               <note place="margin">
+                  <hi>Wapping,</hi> not like the caſe of other Chap<g ref="char:EOLhyphen"/>ples of Eaſe.</note> 
+               <hi>He inſtanceth,</hi> That we have always paid Tythes to the Rectors of <hi>White-Chappel,</hi> as is done in all Chappels of Eaſe in
+<hi>England,</hi> and infers that there are <hi>many Hundreds</hi> of ſuch Chappels in the Nation: And that the making <hi>Wapping</hi> a Pariſh will be
+of dangerous conſequence to Impropriators, <hi>&amp;c. But contrary to this, the Three</hi> Kingdoms, <hi>do afford (inſtead of Hundreds) hardly
+any ſuch inſtance of the like nature:</hi> Viz,</p>
+            <list>
+               <item>1. Where the Pariſh is ſo large, that the Mother Church cannot contain a <hi>Tenth part</hi> of its Inhabitants?</item>
+               <item>2. Where the Inhabitants of the Chapelry cannot raiſe <hi>a Penny</hi> towards the repairs of the Chappel?</item>
+               <item>3. Where the Miniſter hath <hi>no Endowed Maintenance,</hi> nor the allowance of a Farthing from ſo rich a Rectory?</item>
+               <item>4. Where the Rector doth <hi>wholly</hi> neglect the Paſtoral Care?</item>
+               <item>5. Where the Inhabitants of the Chapetry are <hi>in propo<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> much poorer <hi>than thoſe of the Pariſh at large?</hi>
+               </item>
+            </list>
+            <p>
+               <hi>And this is the true ſtate of the Hamlet of Wapping.</hi> And as to the dangerous Conſequence to Impropriators, There's
+a vaſt <hi>difference</hi> between an Impropriations, which is a <hi>Lay Fee,</hi> and a Rectory with Cure of Souls, which is an <hi>Eccleſiaſtical Bene<g ref="char:EOLhyphen"/>fice;</hi>
+ſo that this can no more affect Impropriations, than the ſeparating <hi>Shadwell</hi> from <hi>Stepney</hi> (a neighbouring Pariſh) did; which by
+Act of <hi>Parliament,</hi> about the year 1670, was made Parochial, allowing the Vicar of <hi>Stepney</hi> but Four Nobles <hi>per Annum,</hi> in lieu of
+his Tythes.</p>
+            <p>Fourthly,<note place="margin">The Rents of <hi>Wapping</hi> fallen, yet the Rector keeps up his Rate Tythes, and advanceth them arbitra<g ref="char:EOLhyphen"/>rily on Houſes rebuilt.</note> He urges, <hi>That ſeveral of the new Houſes built in that Pariſh, have dropt down, and that the old Houſes have fallen in their
+Rents,</hi> &amp;c. The probability of the former part we leave to the Judgment of this <hi>Honourable Houſe,</hi> and as to the later, whate<g ref="char:EOLhyphen"/>ver
+Houſes do in <hi>White-Chappel,</hi> This is <hi>ſo true,</hi> in reſpect of <hi>Wapping</hi> (as to all the Houſes in general) that thoſe which were formerly
+lett at 25 <hi>l. 20 l.</hi> or 16 <hi>l. per Ann.</hi> are now reduc'd to 18 <hi>l. 12 l.</hi> and 10 <hi>l. per Ann.</hi> and yet notwithſtanding the Rector has not
+diminiſh'd any thing of his Rate Tythes on thoſe Houſes, but on the contrary, has taken opportunity to advance them on any Houſes
+new built or divided, taxing them arbitrarily what he thought fit. As to the preſent worth of the Rectory, We are willing to
+refer our ſelves to his own Books.</p>
+            <p>Fifthly,<note place="margin">The <hi>Hamlet</hi> not a Fourth part, and poor<g ref="char:EOLhyphen"/>er in pro<g ref="char:EOLhyphen"/>portion than <hi>White-Chap<g ref="char:EOLhyphen"/>pel.</hi>
+               </note> He ſay, <hi>The Hamlet of</hi> Wapping <hi>is above a third part of the Pariſh, that they are above a Mile by the Water-ſide, are ac<g ref="char:EOLhyphen"/>counted
+a Wealthy People,</hi> &amp;c. To which we muſt anſwer more truly, as we have already ſet forth, that we are not one Fourth
+part of the Whole. And are but little above <hi>half</hi> a Mile of Statute-meaſure by the Water-ſide, and the Houſes Scituate there
+are burthen'd with vaſt Charges in keeping up their Damms or Fences towards the Water, and are lately fallen near a <hi>Third part</hi>
+in their Rents, thro the removal of the richeſt Inhabitants into the new Buildings of <hi>White-Chappel,</hi> and other places;
+ſo far are we from that <hi>Great Trade</hi> and <hi>Wealth</hi> as is untruly intimated. And as to the Hamlet in general, through the increaſe of
+the <hi>Poor</hi> of <hi>Seamens Widdows, Orphans,</hi> &amp;c. The Hamlet is ſo impoveriſh'd, that whereas about Twenty years ago three was no
+Overceſs for the Poor; and about Fourteen years ago 30 or 40 <hi>l. per Annum</hi> at moſt, did defray the charge of the accidental
+poor, now our Overceſs is advanc'd to 200 <hi>l. per Annum.</hi>
+            </p>
+            <p>As to the Caſe of the Church-wardens;<note place="margin">The pav<g ref="char:EOLhyphen"/>ing <hi>Wapping-ſtreets,</hi> the charge of the Sewers, and the loſs of Publick Cha<g ref="char:EOLhyphen"/>rities, will more than compenſate their Contri<g ref="char:EOLhyphen"/>bution to the High ways.</note> the Hamlet of <hi>Wapping</hi> Repreſents as before, that a Conſideration being had to the
+<hi>daily growth of White-Chappel,</hi> To the vaſt Charge of <hi>Wapping in paving their own High-ways,</hi> their great expence on the
+<hi>Common, Sewers and their Outlets.</hi> And to the loſs of the Proportion of <hi>Publick Charities</hi> given to the Pariſh at large, it will ap<g ref="char:EOLhyphen"/>pear,
+That <hi>White-Chappel</hi> (inſtead of a detriment) will receive an advantage.</p>
+            <p>The Inhabitants of <hi>Wapping</hi> therefore humbly beg this <hi>Honourable Houſe</hi> to promote this good and juſt
+Deſign, in making them a Pariſh, without ſuch Reſerves as are deſir'd in the Rectors and Church-wardens
+Caſe and Petitions.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
